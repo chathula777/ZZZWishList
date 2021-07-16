@@ -1,0 +1,13 @@
+.main_container{
+    display: flex;
+}
+
+.centered_text{
+    text-align: center;
+}
+
+.box {
+    height: 90vh;
+    border: 1px solid #606060;
+    margin: 10px;
+}
